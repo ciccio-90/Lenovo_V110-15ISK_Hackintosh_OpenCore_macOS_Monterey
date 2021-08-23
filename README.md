@@ -24,6 +24,8 @@ WiFi			| Intel(R) Dual Band Wireless-AC 3165 | Working
 Bluetooth		| Intel(R) Wireless Bluetooth(R) | Working
 Touchpad & Keyboard		| Synaptics 19.4.18.37 Elan 11.4.108.3 | Working
 Webcam		    | BISON 10.0.15063.11299 AVC 10.0.15063.11299 Chicony 10.0.15063.11299 AWA 10.0.15063.11299 | Working
+HDMI Built-in Display | - | Not working
+Micro SD Card Reader | - | Not working
 
 ### Modifications 🔨
 
@@ -66,7 +68,3 @@ SSDT-EC-USBX-LAPTOP.aml | Fix Embedded Controllers. For Skylake laptops and newe
 SSDT-PLUG-DRTNIA.aml | Fixing Power Management. | [Link](https://dortania.github.io/Getting-Started-With-ACPI/Universal/plug.html)
 SSDT-PNLF.aml | Fix Backlight. For most users. | [Link](https://dortania.github.io/Getting-Started-With-ACPI/Laptops/backlight.html)
 SSDT-XOSI.aml | This SSDT can be used instead of an OS Check Fix patch to simulate a version of Windows for Darwin. | [Link](https://dortania.github.io/Getting-Started-With-ACPI/ssdt-methods/ssdt-prebuilt.html#trackpad)
-
-### Troubles
- - Micro SD Card Reader - Not working.
- - HDMI (Audio & Built-in Display) - Not working.

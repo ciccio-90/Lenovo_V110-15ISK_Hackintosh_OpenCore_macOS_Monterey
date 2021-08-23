@@ -1,11 +1,11 @@
  
 # Lenovo V110-15ISK Hackintosh OpenCore 0.7.2 macOS Big Sur 11.5.2
 
-The goal of this repository is to run macOS Big Sur 11.5.2 on Lenovo V110-15ISK Laptop using OpenCore 0.7.2 as bootloader.
+EFI folder to run macOS Big Sur 11.5.2 on Lenovo V110-15ISK Laptop using OpenCore 0.7.2 as bootloader.
 
 ## Dortania's OpenCore Install Guide
 
-https://dortania.github.io/OpenCore-Install-Guide/
+https://dortania.github.io/OpenCore-Install-Guide
 
 ## About this Laptop
 
@@ -31,17 +31,16 @@ Type | Spec | Status
 :--------- |:---------|:----------
 Samsung SSD 850 EVO 250GB Media | - | Working
 RAM 12.00 GB | - | Working
-Universal for 9.5mm CD/DVD Drive Slot (for SSD and HDD) | - | Working
 
 ### Software Status 👨‍💻
 
 Type | Spec | Status
 :---------|:---------|:----------
 Battery Status | - | Working
-Brightness With keys (F11 - F12) | - | Working
+Brightness with keys (F11 - F12) | - | Working
 Sleep | - |  Working
 
-### Kext Used 
+### Used Kexts 
  
 Kext | Info 
 :---------|:---------
@@ -59,7 +58,7 @@ Kext | Info
 [VoodooPS2Controller.kext](https://github.com/RehabMan/OS-X-Voodoo-PS2-Controller) | Contains updated Voodoo PS/2 Controller, improved Keyboard & Synaptics TouchPad.
 [WhateverGreen.kext](https://github.com/acidanthera/WhateverGreen) | Various patches necessary for certain ATI/AMD/Intel/Nvidia GPUs. This is needed for Intel HD 520.
 
-### SSDT Used 
+### Used SSDT 
 
 Kext | Info | Refrence Link 
 :---------|:--------- |:---------
@@ -68,6 +67,6 @@ SSDT-PLUG-DRTNIA.aml | Fixing Power Management. | [Link](https://dortania.github
 SSDT-PNLF.aml | Fix Backlight. For most users. | [Link](https://dortania.github.io/Getting-Started-With-ACPI/Laptops/backlight.html)
 SSDT-XOSI.aml | This SSDT can be used instead of an OS Check Fix patch to simulate a version of Windows for Darwin. | [Link](https://dortania.github.io/Getting-Started-With-ACPI/ssdt-methods/ssdt-prebuilt.html#trackpad)
 
-### TODO
+### Troubles
  - Micro SD Card Reader - Not working.
  - HDMI (Audio & Built-in Display) - Not working.

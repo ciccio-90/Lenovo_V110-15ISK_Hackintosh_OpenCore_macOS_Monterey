@@ -4,7 +4,6 @@
 EFI folder to run macOS Big Sur 11.5.2 on Lenovo V110-15ISK Laptop using OpenCore 0.7.2 as bootloader.
 
 ## [Dortania's OpenCore Install Guide](https://dortania.github.io/OpenCore-Install-Guide)
-<a href="https://dortania.github.io/OpenCore-Install-Guide" target="_blank">Dortania's OpenCore Install Guide</a>
 
 ## About this Laptop
 

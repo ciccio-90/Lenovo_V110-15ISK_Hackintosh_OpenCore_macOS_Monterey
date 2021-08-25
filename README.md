@@ -30,14 +30,14 @@ Micro SD Card Reader | Realtek 10.0.15063.31235 | Not working
 ### Modifications
 
 Type | Status
-:--------- |:---------|:----------
+:--------- |:---------
 Samsung SSD 850 EVO 250GB Media | Working
 RAM 12.00 GB | Working
 
 ### Software
 
 Type | Status
-:---------|:---------|:----------
+:---------|:---------
 Battery Status | Working
 Brightness with keys (F11 - F12) | Working
 Sleep | Working

@@ -12,24 +12,24 @@ EFI folder to run macOS Big Sur 11.5.2 on Lenovo V110-15ISK Laptop using OpenCor
 Type | Spec | Status
 :---------|:---------|:----------
 Computer | Lenovo V110-15ISK | Working
-BIOS Version	| 1KCN51WW | Working
+BIOS	| Lenovo 1KCN51WW | Working
 CPU | Intel(R) Core(TM) i3-6006U CPU @ 2.00GHz | Working
-Chipset | Intel Skylake | Working
-Graphics | Intel Skylake GT2 HD Graphics 520 | Working
-Audio | Realtek ALC236 Codec ID: 10EC0236/17AA3814 | Working
+Intel Generation | Skylake | Working
 Ethernet | Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller | Working
-Wi-Fi | Intel(R) Dual Band Wireless-AC 3165 | Working
-Bluetooth | Intel(R) Wireless Bluetooth(R) | Working
-Touchpad & Keyboard | Synaptics 19.4.18.37 Elan 11.4.108.3 | Working
-Webcam | BISON 10.0.15063.11299 AVC 10.0.15063.11299 Chicony 10.0.15063.11299 AWA 10.0.15063.11299 | Working
-HDMI | Intel 21.20.16.4821 | Partially working (Built-in Display works only after comes back from sleep mode)
-Card Reader | Realtek 10.0.15063.31235 | Not working
+Wi-Fi | Intel Dual Band Wireless-AC 3165 Plus Bluetooth | Working
+Bluetooth | Bluetooth USB Host Controller | Working
+GPU | Intel Skylake GT2 HD Graphics 520 | Working
+Audio | Realtek ALC236 | Working
+HDMI | Intel Skylake HDMI | Partially working (Built-in Display works only after comes back from sleep mode)
+Touchpad & Keyboard | Synaptics Elan | Working
+Webcam | EasyCamera | Working
+Card Reader | Realtek Card Reader | Not working
 
 ### Modifications
 
 Type | Status
 :--------- |:---------
-Samsung SSD 850 EVO 250GB Media | Working
+Samsung SSD 850 EVO 250GB Media SATA | Working
 RAM 12.00 GB | Working
 
 ### Software

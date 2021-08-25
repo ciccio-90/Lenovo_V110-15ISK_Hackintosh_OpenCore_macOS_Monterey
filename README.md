@@ -16,7 +16,7 @@ BIOS Version	| 1KCN51WW | Working
 CPU | Intel(R) Core(TM) i3-6006U CPU @ 2.00GHz | Working
 Chipset | Intel Skylake | Working
 Graphics | Intel Skylake GT2 HD Graphics 520 | Working
-Audio | Realtek ALC236, Codec ID:10EC0236 / 17AA3814 | Working
+Audio | Realtek ALC236 Codec ID: 10EC0236/17AA3814 | Working
 Ethernet | Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller | Working
 Wi-Fi | Intel(R) Dual Band Wireless-AC 3165 | Working
 Bluetooth | Intel(R) Wireless Bluetooth(R) | Working

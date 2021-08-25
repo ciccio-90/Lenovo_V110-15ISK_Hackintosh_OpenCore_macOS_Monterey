@@ -23,7 +23,7 @@ Audio | Realtek ALC236 | Working
 HDMI | Intel Skylake HDMI | Partially working (Built-in Display works only after comes back from sleep mode)
 Touchpad & Keyboard | Synaptics Elan | Working
 Webcam | EasyCamera | Working
-Card Reader | Realtek Card Reader | Not working
+Card Reader | Realtek RTS5129 USB 2.0 Card Reader | Not working
 
 ### Modifications
 

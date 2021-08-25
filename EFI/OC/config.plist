@@ -1066,7 +1066,7 @@
 				<key>SystemAudioVolume</key>
 				<data>Rg==</data>
 				<key>boot-args</key>
-				<string>debug=0x100 keepsyms=1 alcid=15</string>
+				<string>debug=0x100 keepsyms=1 alcid=15 igfxonln=1</string>
 				<key>csr-active-config</key>
 				<data>AAAAAA==</data>
 				<key>prev-lang:kbd</key>
@@ -1142,21 +1142,21 @@
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>MLB</key>
-			<string>C027361084NHCF9FB</string>
+			<string>C17611300J9HMHK1H</string>
 			<key>ProcessorType</key>
 			<integer>0</integer>
 			<key>ROM</key>
-			<data>9PlRDJDD</data>
+			<data>LPCiRqnB</data>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemMemoryStatus</key>
 			<string>Auto</string>
 			<key>SystemProductName</key>
-			<string>MacBookPro13,3</string>
+			<string>MacBookPro13,1</string>
 			<key>SystemSerialNumber</key>
-			<string>C02VC7YXGTFN</string>
+			<string>C17RFMZZGVC1</string>
 			<key>SystemUUID</key>
-			<string>E11FA5FF-094C-40BD-8767-EE372D52D7A4</string>
+			<string>B819DA3C-785D-4E0B-8E6A-47B399296A23</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>

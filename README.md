@@ -24,7 +24,7 @@ WiFi			| Intel(R) Dual Band Wireless-AC 3165 | Working
 Bluetooth		| Intel(R) Wireless Bluetooth(R) | Working
 Touchpad & Keyboard		| Synaptics 19.4.18.37 Elan 11.4.108.3 | Working
 Webcam		    | BISON 10.0.15063.11299 AVC 10.0.15063.11299 Chicony 10.0.15063.11299 AWA 10.0.15063.11299 | Working
-HDMI Built-in Display | - | Not working
+HDMI | - | Partially working (Built-in Display works only after comes back from sleep mode)
 Micro SD Card Reader | - | Not working
 
 ### Modifications 🔨
@@ -41,6 +41,7 @@ Type | Spec | Status
 Battery Status | - | Working
 Brightness with keys (F11 - F12) | - | Working
 Sleep | - |  Working
+iMessage & iServices | - | Not working
 
 ### Used Kexts 
  

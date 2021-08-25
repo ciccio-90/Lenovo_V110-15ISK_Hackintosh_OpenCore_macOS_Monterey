@@ -5,7 +5,7 @@ EFI folder to run macOS Big Sur 11.5.2 on Lenovo V110-15ISK Laptop using OpenCor
 
 ## Dortania's OpenCore Install Guide
 
-https://dortania.github.io/OpenCore-Install-Guide
+[https://dortania.github.io/OpenCore-Install-Guide]
 
 ## About this Laptop
 
@@ -13,17 +13,17 @@ https://dortania.github.io/OpenCore-Install-Guide
 
 Type | Spec | Status
 :---------|:---------|:----------
-Computer		| Lenovo V110-15ISK   | Working
+Computer | Lenovo V110-15ISK | Working
 BIOS Version	| 1KCN51WW | Working
-CPU				| Intel(R) Core(TM) i3-6006U CPU @ 2.00GHz | Working
-Chipset			| Intel Skylake | Working
-Graphics		| Intel Skylake GT2 [HD Graphics 520] | Working
-Audio			| Realtek ALC236, Codec ID:10EC0236 / 17AA3814 | Working
-Ethernet		| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller | Working
-Wi-Fi			| Intel(R) Dual Band Wireless-AC 3165 | Working
-Bluetooth		| Intel(R) Wireless Bluetooth(R) | Working
-Touchpad & Keyboard		| Synaptics 19.4.18.37 Elan 11.4.108.3 | Working
-Webcam		    | BISON 10.0.15063.11299 AVC 10.0.15063.11299 Chicony 10.0.15063.11299 AWA 10.0.15063.11299 | Working
+CPU | Intel(R) Core(TM) i3-6006U CPU @ 2.00GHz | Working
+Chipset | Intel Skylake | Working
+Graphics | Intel Skylake GT2 HD Graphics 520 | Working
+Audio | Realtek ALC236, Codec ID:10EC0236 / 17AA3814 | Working
+Ethernet | Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller | Working
+Wi-Fi | Intel(R) Dual Band Wireless-AC 3165 | Working
+Bluetooth | Intel(R) Wireless Bluetooth(R) | Working
+Touchpad & Keyboard | Synaptics 19.4.18.37 Elan 11.4.108.3 | Working
+Webcam | BISON 10.0.15063.11299 AVC 10.0.15063.11299 Chicony 10.0.15063.11299 AWA 10.0.15063.11299 | Working
 HDMI | Intel 21.20.16.4821 | Partially working (Built-in Display works only after comes back from sleep mode)
 Micro SD Card Reader | Realtek 10.0.15063.31235 | Not working
 
@@ -63,9 +63,9 @@ Kext | Info
 
 ### Used SSDT 
 
-Kext | Info | Refrence Link 
-:---------|:--------- |:---------
-SSDT-PLUG-DRTNIA.aml | Used for enabling Apple's XCPM in macOS, allowing for far better CPU power management. | [Link](https://github.com/dortania/Getting-Started-With-ACPI/blob/master/extra-files/compiled/SSDT-PLUG-DRTNIA.aml)
-SSDT-EC-USBX-LAPTOP.aml | Used for disabling your real Embedded controller and creating a fake one for macOS to play with. USBX portion is used for injection USB power properties missing on Skylake and newer. | [Link](https://github.com/dortania/Getting-Started-With-ACPI/blob/master/extra-files/compiled/SSDT-EC-USBX-LAPTOP.aml)
-SSDT-PNLF.aml | Used for controlling the backlight on internal displays such as AIOs and laptops. | [Link](https://github.com/dortania/Getting-Started-With-ACPI/blob/master/extra-files/compiled/SSDT-PNLF.aml)
-SSDT-XOSI.aml | Enables many Windows-only functionality in macOS. Requires XOSI patch. | [Link](https://github.com/dortania/Getting-Started-With-ACPI/blob/master/extra-files/compiled/SSDT-XOSI.aml)
+SSDT | Info
+:---------|:---------
+[SSDT-PLUG-DRTNIA.aml](https://github.com/dortania/Getting-Started-With-ACPI/blob/master/extra-files/compiled/SSDT-PLUG-DRTNIA.aml) | Used for enabling Apple's XCPM in macOS, allowing for far better CPU power management.
+[SSDT-EC-USBX-LAPTOP.aml](https://github.com/dortania/Getting-Started-With-ACPI/blob/master/extra-files/compiled/SSDT-EC-USBX-LAPTOP.aml) | Used for disabling your real Embedded controller and creating a fake one for macOS to play with. USBX portion is used for injection USB power properties missing on Skylake and newer.
+[SSDT-PNLF.aml](https://github.com/dortania/Getting-Started-With-ACPI/blob/master/extra-files/compiled/SSDT-PNLF.aml) | Used for controlling the backlight on internal displays such as AIOs and laptops.
+[SSDT-XOSI.aml](https://github.com/dortania/Getting-Started-With-ACPI/blob/master/extra-files/compiled/SSDT-XOSI.aml) | Enables many Windows-only functionality in macOS. Requires XOSI patch.

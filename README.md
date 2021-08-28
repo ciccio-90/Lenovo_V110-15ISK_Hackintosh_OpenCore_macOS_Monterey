@@ -20,10 +20,10 @@ Wi-Fi | Intel Dual Band Wireless-AC 3165 Plus Bluetooth | Working
 Bluetooth | Bluetooth USB Host Controller | Working
 GPU | Intel Skylake GT2 HD Graphics 520 | Working
 Audio | Realtek ALC236 | Working
-HDMI | Intel Skylake HDMI | Partially working (Built-in Display works only after comes back from sleep mode)
+HDMI | Intel Skylake HDMI | Working
 Touchpad & Keyboard | Synaptics Elan | Working
 Webcam | EasyCamera | Working
-Card Reader | Realtek RTS5129 USB 2.0 Card Reader | Not working
+Card Reader | Realtek RTS5129 USB 2.0 Card Reader | Working
 
 ### Modifications
 
@@ -39,7 +39,6 @@ Type | Status
 Battery Status | Working
 Brightness with keys (F11 - F12) | Working
 Sleep | Working
-iMessage & iServices | Not working
 
 ### Used Kexts 
  
@@ -58,6 +57,8 @@ Kext | Info
 [USBInjectAll.kext](https://github.com/Sniki/OS-X-USB-Inject-All/releases) | Kext to inject all USB ports for the installed Intel EHCI/XHCI chipset automatically.
 [VoodooPS2Controller.kext](https://github.com/acidanthera/VoodooPS2/releases) | For systems with PS2 keyboards, mice, and trackpads.
 [WhateverGreen.kext](https://github.com/acidanthera/WhateverGreen/releases) | Various patches necessary for certain ATI/AMD/Intel/Nvidia GPUs.
+[RealtekCardReader.kext](https://github.com/0xFireWolf/RealtekCardReader/releases) | An unofficial Realtek PCIe/USB-based SD card reader driver for macOS.
+[RealtekCardReaderFriend.kext](https://github.com/0xFireWolf/RealtekCardReaderFriend/releases) | A Lilu plugin that makes System Information recognize your Realtek card reader as a native one.
 
 ### Used SSDT 
 

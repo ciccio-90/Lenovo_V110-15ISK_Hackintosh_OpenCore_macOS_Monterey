@@ -32,14 +32,6 @@ Type | Status
 Samsung SSD 850 EVO 250GB Media SATA | Working
 RAM 12.00 GB | Working
 
-### Software
-
-Type | Status
-:---------|:---------
-Battery Status | Working
-Brightness with keys (F11 - F12) | Working
-Sleep | Working
-
 ### Used Kexts 
  
 Kext | Info 

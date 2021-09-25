@@ -11,17 +11,14 @@ EFI folder to run latest macOS version on Lenovo V110-15ISK Laptop using OpenCor
 
 Type | Spec | Status
 :---------|:---------|:----------
-Computer | Lenovo V110-15ISK | Working
-BIOS	| Lenovo 1KCN51WW | Working
+Motherboard	| Phoenix BIOS 1KCN51WW | Working
 CPU | Intel(R) Core(TM) i3-6006U CPU @ 2.00GHz | Working
-Intel Generation | Skylake | Working
 Ethernet | Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller | Working
-Wi-Fi | Intel Dual Band Wireless-AC 3165 Plus Bluetooth | Working
-Bluetooth | Bluetooth USB Host Controller | Working
+Wi-Fi & Bluetooth | Intel Dual Band Wireless-AC 3165 Plus Bluetooth | Working
 GPU | Intel Skylake GT2 HD Graphics 520 | Working
 Audio | Realtek ALC236 | Working
 HDMI | Intel Skylake HDMI | Working
-Touchpad & Keyboard | Synaptics Elan | Working
+Keyboard & Touchpad | Synaptics | Working
 Webcam | EasyCamera | Working
 Card Reader | Realtek RTS5129 USB 2.0 Card Reader | Working
 
@@ -31,6 +28,7 @@ Type | Status
 :--------- |:---------
 Samsung SSD 850 EVO 250GB Media SATA | Working
 RAM 12.00 GB | Working
+Disc Burning | Removed
 
 ### Used Kexts 
  

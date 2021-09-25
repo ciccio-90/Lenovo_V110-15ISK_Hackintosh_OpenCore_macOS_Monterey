@@ -21,6 +21,7 @@ HDMI | Intel Skylake HDMI | Working
 Keyboard & Touchpad | Synaptics | Working
 Webcam | EasyCamera | Working
 Card Reader | Realtek RTS5129 USB 2.0 Card Reader | Working
+USB | Sunrise Point-LP USB 3.0 xHCI Controller | Working
 
 ### Modifications
 

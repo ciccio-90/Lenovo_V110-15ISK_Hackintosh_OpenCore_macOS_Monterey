@@ -1,7 +1,7 @@
  
-# Lenovo V110-15ISK Hackintosh OpenCore macOS
+# Lenovo V110-15ISK Hackintosh OpenCore macOS Catalina
 
-EFI folder to run latest macOS version on Lenovo V110-15ISK Laptop using OpenCore as bootloader.
+EFI folder to run latest macOS Catalina version on Lenovo V110-15ISK Laptop using OpenCore as bootloader.
 
 ## [Dortania's OpenCore Install Guide](https://dortania.github.io/OpenCore-Install-Guide)
 

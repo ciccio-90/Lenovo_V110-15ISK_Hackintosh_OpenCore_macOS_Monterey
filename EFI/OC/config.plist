@@ -738,7 +738,7 @@
 				<key>Arch</key>
 				<string>Any</string>
 				<key>BundlePath</key>
-				<string>System/Library/Extensions/.kext</string>
+				<string>System/Library/Extensions/IONetworkingFamily.kext</string>
 				<key>Comment</key>
 				<string></string>
 				<key>Enabled</key>

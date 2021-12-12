@@ -1,7 +1,7 @@
  
-# Lenovo V110-15ISK Hackintosh OpenCore macOS Catalina
+# Lenovo V110-15ISK Hackintosh OpenCore macOS Monterey
 
-EFI folder to run latest macOS Catalina version on Lenovo V110-15ISK Laptop using OpenCore as bootloader.
+EFI folder to run latest macOS Monterey version on Lenovo V110-15ISK Laptop using OpenCore as bootloader.
 
 ## [Dortania's OpenCore Install Guide](https://dortania.github.io/OpenCore-Install-Guide)
 
@@ -38,7 +38,7 @@ Kext | Info
 [Lilu.kext](https://github.com/acidanthera/Lilu/releases) | Arbitrary kext and process patching on macOS.
 [AirportItlwm.kext](https://github.com/OpenIntelWireless/itlwm/releases) | Intel Wi-Fi Drivers for macOS.
 [IntelBluetoothFirmware.kext](https://github.com/OpenIntelWireless/IntelBluetoothFirmware/releases) | Intel Bluetooth Drivers for macOS.
-[IntelBluetoothInjector.kext](https://github.com/OpenIntelWireless/IntelBluetoothFirmware/releases) | Intel Bluetooth Drivers for macOS.
+[BlueToolFixup.kext](https://github.com/acidanthera/BrcmPatchRAM/releases) | Needed for all non-native Bluetooth devices.
 [AppleALC.kext](https://github.com/acidanthera/AppleALC/releases) | Native macOS HD audio for not officially supported codecs.
 [RealtekRTL8111.kext](https://github.com/Mieze/RTL8111_driver_for_OS_X/releases) | OS X open source driver for the Realtek RTL8111/8168 family (V2.2.2).
 [VirtualSMC.kext](https://github.com/acidanthera/VirtualSMC/releases) | SMC emulator layer.

@@ -9,7 +9,7 @@ EFI folder to run latest macOS Monterey version on Lenovo V110-15ISK Laptop usin
 
 ### Original Hardware
 
-Type | Spec | Status
+Type | Specification | Status
 :---------|:---------|:----------
 Motherboard	| Phoenix BIOS 1KCN51WW | Working
 CPU | Intel(R) Core(TM) i3-6006U CPU @ 2.00GHz | Working

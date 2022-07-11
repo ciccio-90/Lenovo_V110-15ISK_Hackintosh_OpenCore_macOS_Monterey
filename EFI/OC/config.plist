@@ -163,23 +163,27 @@
 			<dict>
 				<key>AAPL,ig-platform-id</key>
 				<data>
-				AAAWGQ==
+				AAAbWQ==
 				</data>
 				<key>device-id</key>
 				<data>
-				FhkAAA==
+				FlkAAA==
 				</data>
 				<key>framebuffer-con1-enable</key>
 				<data>
 				AQAAAA==
 				</data>
-				<key>framebuffer-con1-type</key>
+				<key>framebuffer-con1-alldata</key>
 				<data>
-				AAgAAA==
+				AQUKAAAIAACHAQAAAgQKAAAIAACHAQAA/wAAAAEAAAAgAAAA
 				</data>
-				<key>framebuffer-fbmem</key>
+				<key>framebuffer-con2-enable</key>
 				<data>
-				AACQAA==
+				AQAAAA==
+				</data>
+				<key>framebuffer-con2-alldata</key>
+				<data>
+				AQUKAAAIAACHAQAAAgQKAAAIAACHAQAA/wAAAAEAAAAgAAAA
 				</data>
 				<key>framebuffer-patch-enable</key>
 				<data>
@@ -188,6 +192,10 @@
 				<key>framebuffer-stolenmem</key>
 				<data>
 				AAAwAQ==
+				</data>
+				<key>framebuffer-fbmem</key>
+				<data>
+				AACQAA==
 				</data>
 			</dict>
 		</dict>
@@ -841,7 +849,7 @@
 				Rg==
 				</data>
 				<key>boot-args</key>
-				<string>debug=0x100 keepsyms=1 alcid=15 igfxonln=1</string>
+				<string>debug=0x100 keepsyms=1 alcid=15 igfxonln=1 -igfxsklaskbl</string>
 				<key>csr-active-config</key>
 				<data>
 				AAAAAA==
@@ -928,7 +936,7 @@
 			<key>SystemMemoryStatus</key>
 			<string>Auto</string>
 			<key>SystemProductName</key>
-			<string>MacBookPro13,1</string>
+			<string>MacBookPro14,1</string>
 			<key>SystemSerialNumber</key>
 			<string>C17RFMZZGVC1</string>
 			<key>SystemUUID</key>

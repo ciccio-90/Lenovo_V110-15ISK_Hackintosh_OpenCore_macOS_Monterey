@@ -7,6 +7,8 @@ EFI folder to run latest macOS Monterey version on Lenovo V110-15ISK Laptop usin
 
 ## About this Laptop
 
+![neofetch](https://user-images.githubusercontent.com/66642459/194745164-4fcef2f5-a648-4739-96c2-c8b943f8194f.png)
+
 ### Original Hardware
 
 Type | Specification | Status

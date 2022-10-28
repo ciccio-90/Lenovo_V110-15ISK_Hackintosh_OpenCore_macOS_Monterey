@@ -763,7 +763,7 @@
 				Rg==
 				</data>
 				<key>boot-args</key>
-				<string>debug=0x100 keepsyms=1 alcid=15 igfxonln=1 -igfxsklaskbl</string>
+				<string>debug=0x100 keepsyms=1 alcid=15 igfxonln=1</string>
 				<key>csr-active-config</key>
 				<data>
 				AAAAAA==

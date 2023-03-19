@@ -7,7 +7,7 @@ EFI folder to run latest macOS Ventura version on Lenovo V110-15ISK Laptop using
 
 ## About this Laptop
 
-![Screenshot 2023-03-19 at 10 25 41](https://user-images.githubusercontent.com/66642459/226165932-525c3fe2-d234-495e-ab13-8525b96e36d3.png)
+![Screenshot 2023-03-19 at 10 28 56](https://user-images.githubusercontent.com/66642459/226166061-9c9b8d5d-0cbd-400f-84ca-c0097a51b8b6.png)
 
 ### Original Hardware
 

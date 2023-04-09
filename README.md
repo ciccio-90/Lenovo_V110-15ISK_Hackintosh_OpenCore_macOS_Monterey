@@ -1,13 +1,10 @@
- 
 # Lenovo V110-15ISK Hackintosh OpenCore macOS Ventura
-
 EFI folder to run latest macOS Ventura version on Lenovo V110-15ISK Laptop using OpenCore as bootloader.
-
 ## [Dortania's OpenCore Install Guide](https://dortania.github.io/OpenCore-Install-Guide)
 
 ## About this Laptop
 
-[Screenshot 2023-04-09 at 09 35 40](https://user-images.githubusercontent.com/66642459/230760382-6ca461b0-dcd5-420a-8893-96fe1dbaccbb.png)
+
 
 ### Original Hardware
 
@@ -24,15 +21,12 @@ Keyboard & Touchpad | Synaptics | Working
 Webcam | EasyCamera | Working
 Card Reader | Realtek RTS5129 USB 2.0 Card Reader | Working
 USB | Sunrise Point-LP USB 3.0 xHCI Controller | Working
-
 ### Modifications
-
 Type | Status
 :--------- |:---------
 Samsung SSD 850 EVO 250GB Media SATA | Working
 RAM 12.00 GB | Working
 Disc Burning | Removed
-
 ### Used Kexts 
  
 Kext | Info 
@@ -52,12 +46,9 @@ Kext | Info
 [WhateverGreen.kext](https://github.com/acidanthera/WhateverGreen/releases) | Various patches necessary for certain ATI/AMD/Intel/Nvidia GPUs.
 [RealtekCardReader.kext](https://github.com/0xFireWolf/RealtekCardReader/releases) | An unofficial Realtek PCIe/USB-based SD card reader driver for macOS.
 [RealtekCardReaderFriend.kext](https://github.com/0xFireWolf/RealtekCardReaderFriend/releases) | A Lilu plugin that makes System Information recognize your Realtek card reader as a native one.
-
 ### Used SSDTs
-
 SSDT | Info
 :---------|:---------
 [SSDT-PLUG-DRTNIA.aml](https://github.com/dortania/Getting-Started-With-ACPI/blob/master/extra-files/compiled/SSDT-PLUG-DRTNIA.aml) | Used for enabling Apple's XCPM in macOS, allowing for far better CPU power management.
-[SSDT-EC-USBX-LAPTOP.aml](https://github.com/dortania/Getting-Started-With-ACPI/blob/master/extra-files/compiled/SSDT-EC-USBX-LAPTOP.aml) | Used for disabling your real 
-ing a fake one for macOS to play with. USBX portion is used for injection USB power properties missing on Skylake and newer.
+[SSDT-EC-USBX-LAPTOP.aml](https://github.com/dortania/Getting-Started-With-ACPI/blob/master/extra-files/compiled/SSDT-EC-USBX-LAPTOP.aml) | Used for disabling your real Embedded controller and creating a fake one for macOS to play with. USBX portion is used for injection USB power properties missing on Skylake and newer.
 [SSDT-PNLF.aml](https://github.com/dortania/Getting-Started-With-ACPI/blob/master/extra-files/compiled/SSDT-PNLF.aml) | Used for controlling the backlight on internal displays such as AIOs and laptops.

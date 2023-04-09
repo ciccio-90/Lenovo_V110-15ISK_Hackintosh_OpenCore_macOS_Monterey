@@ -7,7 +7,7 @@ EFI folder to run latest macOS Ventura version on Lenovo V110-15ISK Laptop using
 
 ## About this Laptop
 
-![Screenshot 2023-03-19 at 10 28 56](https://user-images.githubusercontent.com/66642459/226166061-9c9b8d5d-0cbd-400f-84ca-c0097a51b8b6.png)
+Embedded controller and creat![Screenshot 2023-04-09 at 09 35 40](https://user-images.githubusercontent.com/66642459/230760382-6ca461b0-dcd5-420a-8893-96fe1dbaccbb.png)
 
 ### Original Hardware
 
@@ -58,5 +58,6 @@ Kext | Info
 SSDT | Info
 :---------|:---------
 [SSDT-PLUG-DRTNIA.aml](https://github.com/dortania/Getting-Started-With-ACPI/blob/master/extra-files/compiled/SSDT-PLUG-DRTNIA.aml) | Used for enabling Apple's XCPM in macOS, allowing for far better CPU power management.
-[SSDT-EC-USBX-LAPTOP.aml](https://github.com/dortania/Getting-Started-With-ACPI/blob/master/extra-files/compiled/SSDT-EC-USBX-LAPTOP.aml) | Used for disabling your real Embedded controller and creating a fake one for macOS to play with. USBX portion is used for injection USB power properties missing on Skylake and newer.
+[SSDT-EC-USBX-LAPTOP.aml](https://github.com/dortania/Getting-Started-With-ACPI/blob/master/extra-files/compiled/SSDT-EC-USBX-LAPTOP.aml) | Used for disabling your real 
+ing a fake one for macOS to play with. USBX portion is used for injection USB power properties missing on Skylake and newer.
 [SSDT-PNLF.aml](https://github.com/dortania/Getting-Started-With-ACPI/blob/master/extra-files/compiled/SSDT-PNLF.aml) | Used for controlling the backlight on internal displays such as AIOs and laptops.

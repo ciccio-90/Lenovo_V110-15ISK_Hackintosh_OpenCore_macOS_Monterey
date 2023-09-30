@@ -1,10 +1,10 @@
-# Lenovo V110-15ISK Hackintosh OpenCore macOS Ventura
-EFI folder to run latest macOS Ventura version on Lenovo V110-15ISK Laptop using OpenCore as bootloader.
+# Lenovo V110-15ISK Hackintosh OpenCore macOS Sonoma
+EFI folder to run latest macOS Sonoma version on Lenovo V110-15ISK Laptop using OpenCore as bootloader.
 ## [Dortania's OpenCore Install Guide](https://dortania.github.io/OpenCore-Install-Guide)
 
 ## About this Laptop
 
-![Screenshot 2023-09-15 at 17 56 39](https://github.com/ciccio-90/Lenovo_V110-15ISK_Hackintosh_OpenCore_macOS_Ventura/assets/66642459/c14c77eb-19a3-4405-a225-60061372ca56)
+![Screenshot 2023-09-30 at 14 55 37](https://github.com/ciccio-90/Lenovo_V110-15ISK_Hackintosh_OpenCore_macOS_Ventura/assets/66642459/66fe120e-a405-4503-944a-e4dc58e93d32)
 
 ### Original Hardware
 

@@ -4,7 +4,7 @@ EFI folder to run latest macOS Sonoma version on Lenovo V110-15ISK Laptop using 
 
 ## About this Laptop
 
-![Screenshot 2023-10-28 at 12 11 06](https://github.com/ciccio-90/Lenovo_V110-15ISK_Hackintosh_OpenCore_macOS_Sonoma/assets/66642459/809ad572-88f2-4eb8-9992-861a0693aed4)
+![Screenshot 2023-11-22 at 18 54 36](https://github.com/ciccio-90/Lenovo_V110-15ISK_Hackintosh_OpenCore_macOS_Sonoma/assets/66642459/e3f7b651-2ff8-43ac-a9c8-2c2fe7717e2a)
 
 ### Original Hardware
 
@@ -46,6 +46,7 @@ Kext | Info
 [WhateverGreen.kext](https://github.com/acidanthera/WhateverGreen/releases) | Various patches necessary for certain ATI/AMD/Intel/Nvidia GPUs.
 [RealtekCardReader.kext](https://github.com/0xFireWolf/RealtekCardReader/releases) | An unofficial Realtek PCIe/USB-based SD card reader driver for macOS.
 [RealtekCardReaderFriend.kext](https://github.com/0xFireWolf/RealtekCardReaderFriend/releases) | A Lilu plugin that makes System Information recognize your Realtek card reader as a native one.
+[RestrictEvents.kext](https://github.com/acidanthera/RestrictEvents/releases) | Lilu Kernel extension for blocking unwanted processes causing compatibility issues on different hardware and unlocking the support for certain features restricted to other hardware.
 ### Used SSDTs
 SSDT | Info
 :---------|:---------

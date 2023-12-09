@@ -136,6 +136,10 @@
 				<data>
 				AACQAA==
 				</data>
+				<key>framebuffer-portcount</key>
+				<data>
+				AgAAAA==
+				</data>
 				<key>framebuffer-con1-enable</key>
 				<data>
 				AQAAAA==
@@ -143,6 +147,26 @@
 				<key>framebuffer-con1-alldata</key>
 				<data>
 				AQUJAAAIAACHAQAA
+				</data>
+				<key>framebuffer-con2-enable</key>
+				<data>
+				AQAAAA==
+				</data>
+				<key>framebuffer-con2-index</key>
+				<data>
+				/////w==
+				</data>
+				<key>force-online</key>
+				<data>
+				AQAAAA==
+				</data>
+				<key>force-online-framebuffers</key>
+				<data>
+				AQAAAA==
+				</data>
+				<key>disable-agdc</key>
+				<data>
+				AQAAAA==
 				</data>
 			</dict>
 		</dict>
@@ -763,7 +787,7 @@
 				Rg==
 				</data>
 				<key>boot-args</key>
-				<string>debug=0x100 keepsyms=1 alcid=15 igfxonln=1</string>
+				<string>debug=0x100 keepsyms=1 alcid=15</string>
 				<key>csr-active-config</key>
 				<data>
 				AwgAAA==

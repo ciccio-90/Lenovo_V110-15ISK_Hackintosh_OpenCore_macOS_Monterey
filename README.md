@@ -4,7 +4,7 @@ EFI folder to run latest macOS Sonoma version on Lenovo V110-15ISK Laptop using 
 
 ## About this Laptop
 
-![Screenshot 2023-12-14 at 18 05 36](https://github.com/ciccio-90/Lenovo_V110-15ISK_Hackintosh_OpenCore_macOS_Sonoma/assets/66642459/908ff4a9-7aaf-4b35-a6ef-0231b6c33e46)
+![Screenshot 2024-01-27 at 19 47 42](https://github.com/ciccio-90/Lenovo_V110-15ISK_Hackintosh_OpenCore_macOS_Sonoma/assets/66642459/9532f0b0-d7d5-43b9-9968-e8bb480223c4)
 
 ### Original Hardware
 

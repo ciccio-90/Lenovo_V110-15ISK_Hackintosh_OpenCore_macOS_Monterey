@@ -1,4 +1,4 @@
-# Lenovo V110-15ISK Hackintosh OpenCore macOS Sonoma
+# Lenovo V110-15ISK Hackintosh OpenCore macOS Monterey
 EFI folder to run latest macOS Monterey version on Lenovo V110-15ISK Laptop using OpenCore as bootloader.
 ## [Dortania's OpenCore Install Guide](https://dortania.github.io/OpenCore-Install-Guide)
 
